@@ -6,6 +6,8 @@ Browse, filter and sort local images by resolution, file size, format, aspect ra
 
 No installation. No uploads. No dependencies.
 
+![Local Image Inspector](assets/screenshot.png)
+
 ## Download
 
 [Download Local Image Inspector](https://github.com/husobal/local-image-inspector/releases/download/v1.0.0/image-inspector.html)
