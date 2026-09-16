@@ -6,6 +6,12 @@ Browse, filter and sort local images by resolution, file size, format, aspect ra
 
 No installation. No uploads. No dependencies.
 
+## Download
+
+[Download Local Image Inspector](https://github.com/husobal/local-image-inspector/releases/download/v1.0.0/image-inspector.html)
+
+Download the HTML file, open it in your browser, and select a folder.
+
 ## Features
 
 - Single HTML file
@@ -32,8 +38,9 @@ No installation. No uploads. No dependencies.
   - File name
   - Modified date
 - Responsive interface
-- Lazy thumbnail loading for large image collections
+- Lazy thumbnail loading
 - Optimized handling for high-resolution images
+- Local thumbnail caching while the page remains open
 
 ## Usage
 
